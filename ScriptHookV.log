@@ -1,0 +1,31 @@
+// GTA V SCRIPT HOOK (build Mar 20 2021, v1.0.2245.0)
+//     (C) Alexander Blade 2015-2021
+[23:07:22] INIT: Started
+[23:07:26] INIT: Success, game version is VER_1_0_2245_0_NOSTEAM
+[23:07:26] INIT: Registering script 'EnhancedNativeTrainer.asi' (0x00007FFA6245F180)
+[23:07:26] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FFAADDF1480)
+[23:07:35] INIT: Pool 1 extended
+[23:07:35] INIT: Pool 2 extended
+[23:07:35] INIT: Pool 3 extended
+[23:07:35] INIT: Pool 4 extended
+[23:07:41] INIT: GtaThread collection size 189
+[23:07:41] INIT: wnd proc 0x00000000FFFF0315
+[23:07:41] INIT: IDXGISwapChain 0x00007FFABDE6C438 (0x00007FFABDDD59E0)
+[23:07:41] INIT: IDXGISwapChain set
+[23:07:41] INIT: DX init started
+[23:07:41] INIT: DX feature level A000
+[23:07:41] INIT: DX init succeeded
+[23:08:35] CORE: Requesting thread creation
+[23:08:35] CORE: Creating threads
+[23:08:37] CORE: Started control thread, id 34 active 1
+[23:08:37] CORE: Started thread 'EnhancedNativeTrainer.asi' (0x00007FFA6245F180), id 35 active 1
+[23:08:37] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FFAADDF1480), id 36 active 1
+[23:08:37] CORE: Launching main() for 'EnhancedNativeTrainer.asi' (0x00007FFA6245F180), id 35
+[23:08:38] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FFAADDF1480), id 36
+[23:08:42] CORE: Creating texture 'Scripts\mod_textures\noprofile_400x100.png', id 0
+[23:08:42] CORE: Creating texture 'Scripts\mod_textures\gtavsatmap_700x900_grey.png', id 1
+[23:08:49] CORE: Creating texture 'Scripts\mod_textures\gtbikevlogo.png', id 2
+[23:08:49] CORE: Creating texture 'Scripts\mod_textures\ANT-icon.png', id 3
+[23:08:49] CORE: Creating texture 'Scripts\mod_textures\grey_led.png', id 4
+[23:09:22] UNINIT: Unregistering script 'ScriptHookVDotNet.asi'
+[23:09:22] UNINIT: Unregistering script 'EnhancedNativeTrainer.asi'

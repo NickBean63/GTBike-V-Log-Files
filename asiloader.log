@@ -1,0 +1,14 @@
+// GTA V ASI LOADER (build May  2 2015)
+//     (C) Alexander Blade 2015
+LIB: "C:\WINDOWS\system32\dinput8.dll" => 00007FFAAA680000
+API: "DirectInput8Create" => 00007FFAAA682230
+API: "DllCanUnloadNow" => 00007FFAAA695220
+API: "DllGetClassObject" => 00007FFAAA695330
+API: "DllRegisterServer" => 00007FFAAA6A4740
+API: "DllUnregisterServer" => 00007FFAAA6A49C0
+LOADER: Loading *.asi plugins
+ASI: Loading "C:\Program Files\Rockstar Games\Grand Theft Auto V\EnhancedNativeTrainer.asi"
+     "EnhancedNativeTrainer.asi" => 00007FFA61BF0000
+ASI: Loading "C:\Program Files\Rockstar Games\Grand Theft Auto V\ScriptHookVDotNet.asi"
+     "ScriptHookVDotNet.asi" => 00007FFAADDF0000
+LOADER: Finished loading *.asi plugins

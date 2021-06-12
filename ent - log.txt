@@ -1,0 +1,134 @@
+2021-05-12 23:08:37 ENT folder exists. Continuing!
+2021-05-12 23:08:37 Trying to init storage
+2021-05-12 23:08:37 Trying to create storage folder
+2021-05-12 23:08:37 C:\Users\nicka\AppData\Roaming\GTAV Enhanced Native Trainer
+2021-05-12 23:08:37 Storage dir created or exists
+2021-05-12 23:08:37 Trying to create temp folder
+2021-05-12 23:08:37 C:\Users\nicka\AppData\Local\Temp\GTAV Enhanced Native Trainer
+2021-05-12 23:08:37 Temp dir created or exists
+2021-05-12 23:08:37 Init storage complete
+2021-05-12 23:08:37 Initialising DB engine
+2021-05-12 23:08:37 Opening DB file
+2021-05-12 23:08:37 C:\Users\nicka\AppData\Roaming\GTAV Enhanced Native Trainer\ent.db
+2021-05-12 23:08:37 DB opened
+2021-05-12 23:08:37 Version found: 17
+2021-05-12 23:08:37 ScriptMain called - handler set
+2021-05-12 23:08:37 Reading XML config...
+2021-05-12 23:08:37 Key function toggle_main_menu being given VK_F3
+2021-05-12 23:08:37 Key function menu_up being given VK_NUMPAD8
+2021-05-12 23:08:37 Key function menu_down being given VK_NUMPAD2
+2021-05-12 23:08:37 Key function menu_left being given VK_NUMPAD4
+2021-05-12 23:08:37 Key function menu_right being given VK_NUMPAD6
+2021-05-12 23:08:37 Key function menu_select being given VK_NUMPAD5
+2021-05-12 23:08:37 Key function menu_back being given VK_NUMPAD0
+2021-05-12 23:08:37 Key function veh_boost being given VK_NUMPAD9
+2021-05-12 23:08:37 Key function veh_stop being given VK_NUMPAD3
+2021-05-12 23:08:37 Key function veh_rockets being given VK_ADD
+2021-05-12 23:08:37 Key function veh_leftblink being given VK_LEFT
+2021-05-12 23:08:37 Key function veh_rightblink being given VK_RIGHT
+2021-05-12 23:08:37 Key function veh_emergencyblink being given VK_DECIMAL
+2021-05-12 23:08:37 Key function veh_startrefueling being given VK_KEY_E
+2021-05-12 23:08:37 Key function veh_stoprefueling being given VK_KEY_S
+2021-05-12 23:08:37 Key function toggle_airbrake being given VK_F6
+2021-05-12 23:08:37 Key function airbrake_up being given VK_KEY_Q
+2021-05-12 23:08:37 Key function airbrake_down being given VK_KEY_Z
+2021-05-12 23:08:37 Key function airbrake_forward being given VK_KEY_W
+2021-05-12 23:08:37 Key function airbrake_back being given VK_KEY_S
+2021-05-12 23:08:37 Key function airbrake_rotate_left being given VK_KEY_A
+2021-05-12 23:08:37 Key function airbrake_rotate_right being given VK_KEY_D
+2021-05-12 23:08:37 Key function airbrake_move_aside being given VK_SPACE
+2021-05-12 23:08:37 Key function airbrake_mouse_control being given VK_KEY_M
+2021-05-12 23:08:37 Key function airbrake_speed being given VK_SHIFT
+2021-05-12 23:08:37 Key function airbrake_freeze_time being given VK_KEY_T
+2021-05-12 23:08:37 Key function airbrake_help being given VK_KEY_H
+2021-05-12 23:08:37 Key function objectplacer_up being given VK_KEY_Q
+2021-05-12 23:08:37 Key function objectplacer_down being given VK_KEY_Z
+2021-05-12 23:08:37 Key function objectplacer_forward being given VK_KEY_W
+2021-05-12 23:08:37 Key function objectplacer_back being given VK_KEY_S
+2021-05-12 23:08:37 Key function objectplacer_rotate_left being given VK_KEY_A
+2021-05-12 23:08:37 Key function objectplacer_rotate_right being given VK_KEY_D
+2021-05-12 23:08:37 Key function objectplacer_speed_up being given VK_OEM_6
+2021-05-12 23:08:37 Key function objectplacer_speed_down being given VK_OEM_4
+2021-05-12 23:08:37 Key function objectplacer_freeze_time being given VK_KEY_T
+2021-05-12 23:08:37 Key function objectplacer_freeze_position being given VK_KEY_G
+2021-05-12 23:08:37 Key function objectplacer_help being given VK_KEY_H
+2021-05-12 23:08:37 Key function hotkey_1 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_2 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_3 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_4 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_5 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_6 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_7 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_8 being given VK_NOTHING
+2021-05-12 23:08:37 Key function hotkey_9 being given VK_NOTHING
+2021-05-12 23:08:37 Controller function KEY_TOGGLE_MAIN_MENU given value: 206 and 192
+2021-05-12 23:08:37 Controller function KEY_MENU_UP given value: 188 and -1
+2021-05-12 23:08:37 Controller function KEY_MENU_DOWN given value: 187 and -1
+2021-05-12 23:08:37 Controller function KEY_MENU_LEFT given value: 189 and -1
+2021-05-12 23:08:37 Controller function KEY_MENU_RIGHT given value: 190 and -1
+2021-05-12 23:08:37 Controller function KEY_MENU_SELECT given value: 201 and -1
+2021-05-12 23:08:37 Controller function KEY_MENU_BACK given value: 202 and -1
+2021-05-12 23:08:37 Controller function KEY_VEH_BOOST given value: 206 and 24
+2021-05-12 23:08:37 Controller function KEY_VEH_STOP given value: 205 and 25
+2021-05-12 23:08:37 Controller function KEY_VEH_ROCKETS given value: 205 and 206
+2021-05-12 23:08:37 Controller function KEY_VEH_LEFTBLINK given value: 25 and -1
+2021-05-12 23:08:37 Controller function KEY_VEH_RIGHTBLINK given value: 24 and -1
+2021-05-12 23:08:37 Controller function KEY_VEH_EMERGENCYBLINK given value: 202 and -1
+2021-05-12 23:08:37 Controller function KEY_VEH_STARTREFUELING given value: 201 and -1
+2021-05-12 23:08:37 Controller function KEY_VEH_STOPREFUELING given value: 202 and -1
+2021-05-12 23:08:37 Controller function KEY_TOGGLE_AIRBRAKE given value: 201 and 206
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_UP given value: 25 and -1
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_DOWN given value: 24 and -1
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_FORWARD given value: 32 and -1
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_BACK given value: 33 and -1
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_ROTATE_LEFT given value: 205 and -1
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_ROTATE_RIGHT given value: 206 and -1
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_SPEED given value: 201 and -1
+2021-05-12 23:08:37 Controller function KEY_AIRBRAKE_FREEZE_TIME given value: 202 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_UP given value: 25 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_DOWN given value: 24 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_FORWARD given value: 32 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_BACK given value: 33 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_ROTATE_LEFT given value: 205 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_ROTATE_RIGHT given value: 206 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_SPEED_CYCLE given value: 201 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_FREEZE_TIME given value: 202 and -1
+2021-05-12 23:08:37 Controller function KEY_OBJECTPLACER_FREEZE_POSITION given value: 192 and -1
+2021-05-12 23:08:37 XML config read complete
+2021-05-12 23:08:37 Reading INI config....
+2021-05-12 23:08:37 INI config read complete
+2021-05-12 23:08:37 Registered texture file: C:\Program Files\Rockstar Games\Grand Theft Auto V\Enhanced Native Trainer\ENT_vehicle_previews.ytd with texture ID 162471
+2021-05-12 23:08:37 Setting up calls
+2021-05-12 23:08:37 Loading settings
+2021-05-12 23:08:37 Asked to load generic pairs
+2021-05-12 23:08:37 Done loading generic pairs
+2021-05-12 23:08:37 Got generic pairs
+2021-05-12 23:08:37 Asked to load 249 feature pairs
+2021-05-12 23:08:37 Done loading feature pairs
+2021-05-12 23:08:37 Got feature pairs
+2021-05-12 23:08:37 Emptying model arrays
+2021-05-12 23:08:37 Creating vehicle model arrays
+2021-05-12 23:08:37 Loaded settings OK
+2021-05-12 23:08:46 Asked to load saved skins
+2021-05-12 23:08:46 Skin row found
+2021-05-12 23:08:46 Skin row found
+2021-05-12 23:08:46 Done loading saved skins
+2021-05-12 23:08:52 Asked to load saved skins
+2021-05-12 23:08:52 Skin row found
+2021-05-12 23:08:52 Skin row found
+2021-05-12 23:08:52 Done loading saved skins
+2021-05-12 23:09:22 ScriptTidyUp called
+2021-05-12 23:09:22 Saving settings, start
+2021-05-12 23:09:22 Actually saving
+2021-05-12 23:09:22 Save flag released
+2021-05-12 23:09:22 Saved settings
+2021-05-12 23:09:22 Reset input
+2021-05-12 23:09:22 Cleaned up script
+2021-05-12 23:09:22 cleanup_props called
+2021-05-12 23:09:22 Cleaned up props
+2021-05-12 23:09:22 Cleaned up anims
+2021-05-12 23:09:22 DB closing
+2021-05-12 23:09:22 DB closed
+2021-05-12 23:09:22 DB shutdown
+2021-05-12 23:09:22 Database killed
+2021-05-12 23:09:22 ScriptTidyUp done
